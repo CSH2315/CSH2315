@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Capsule Render Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=SeungHoon%20CHOI&fontColor=fff&fontSize=40&height=200&section=header)
+
 
 <!--
 **CSH2315/CSH2315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
