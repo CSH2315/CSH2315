@@ -32,7 +32,7 @@
 <h3 align='center'>🙌 Contact 🙌</h3>
 <div align='center'>
   <a href="https://github.com/CSH2315/"><img alt="RED" src ="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <a href="https://https://www.linkedin.com/in/seunghoon-choi-83648032b/"><img alt="RED" src ="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/seunghoon-choi-83648032b/"><img alt="RED" src ="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="mailto:choish00123@gmail.com"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choish00123@gmail.com"/></a>
 </div>
 
