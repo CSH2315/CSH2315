@@ -28,6 +28,15 @@
 
 <br/>
 
+<div align='center'>
+<h3 align='center'>📈 solved.ac 📈</h3>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choish00123)](https://solved.ac/choish00123/) 
+
+</div>
+
+<br/>
+
 </div>
 <h3 align='center'>🙌 Contact 🙌</h3>
 <div align='center'>
@@ -37,12 +46,6 @@
 </div>
 
 <br/>
-
-<div align='center'>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choish00123)](https://solved.ac/choish00123/) 
-
-</div>
 
 <!--
 **CSH2315/CSH2315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
