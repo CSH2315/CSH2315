@@ -21,7 +21,7 @@
 <div align='center'>
   <h3 align='center'>💻 Languages 💻</h3>
   <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSH2315&theme=react&exclude_repo=Jagi,assignment&layout=compact" align='center' height="180px" width = "40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSH2315&theme=react&exclude_repo=Jagi,assignment&layout=compact" align='center' height="360px" width = "40%">
 </a>
 
 </div>
