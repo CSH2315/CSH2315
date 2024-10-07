@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Capsule Render Banner](https://capsule-render.vercel.app/api?type=soft&color=0:00A7FF,50:d91920,100:FFE976&text=SeungHoon%20CHOI&fontColor=fff&fontSize=40&height=200&section=header)
+![Capsule Render Banner](https://capsule-render.vercel.app/api?type=soft&color=0:00AEF3,50:d91920,100:FFF440&text=SeungHoon%20CHOI&fontColor=fff&fontSize=40&height=200&section=header)
 
 <br/>
 
@@ -10,9 +10,9 @@
 |소속 및 단체|활동 기간|내용|
 |---|---|---|
 |국민대학교|2022.03 -|국민대학교 소프트웨어학부 재학|
-|PATCH|2022.03 - 2022.11|국민대학교 소프트웨어융합대학 제6대 학생회 기획부 부원|　　　
-|GDSC Kookmin|2023.09 - 2024.08|Google Developer Student Clubs 부원(Frontend Session)|
-|GDSC-GDG Kookmin|2024.08 -|Google Developer Student Clubs -> Google Developer Groups on Campus 운영진(MgMt Core Member)|
+|PATCH|2022.03 - 2022.11|국민대학교 소프트웨어융합대학 제6대 학생회 'PATCH' 기획부 부원|　　　
+|GDSC Kookmin|2023.09 - 2024.08|Google Developer Student Clubs 부원|
+|GDSC-GDG Kookmin|2024.08 -|Google Developer Student Clubs -> Google Developer Groups on Campus 운영진 (Core Member - MgMt)|
 
 </div>
 
