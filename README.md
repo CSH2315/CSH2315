@@ -18,6 +18,32 @@
 
 <br/>
 
+<div align='center'>
+  <h3 align='center'>💻 Languages 💻</h3>
+  <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSH2315&theme=react&exclude_repo=Jagi,assignment&layout=compact" align='center' height="180px" width = "40%">
+</a>
+
+</div>
+
+<br/>
+
+</div>
+<h3 align='center'>🙌 Contact 🙌</h3>
+<div align='center'>
+  <a href="https://github.com/CSH2315/"><img alt="RED" src ="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="https://https://www.linkedin.com/in/seunghoon-choi-83648032b/"><img alt="RED" src ="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  <a href="mailto:choish00123@gmail.com"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choish00123@gmail.com"/></a>
+</div>
+
+<br/>
+
+<div align='center'>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choish00123)](https://solved.ac/choish00123/) 
+
+</div>
+
 <!--
 **CSH2315/CSH2315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
