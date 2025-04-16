@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Capsule Render Banner](https://capsule-render.vercel.app/api?type=soft&color=0:00AEF3,50:d91920,100:FFF440&text=SeungHoon%20CHOI&fontColor=fff&fontSize=40&height=200&section=header)
+
 
 <br/>
 
