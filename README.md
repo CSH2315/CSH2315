@@ -11,8 +11,8 @@
 |---|---|---|
 |국민대학교|2022.03 -|국민대학교 소프트웨어학부 재학|
 |PATCH|2022.03 - 2022.11|국민대학교 소프트웨어융합대학 제6대 학생회 'PATCH' 기획부 부원|　　　
-|GDSC Kookmin|2023.09 - 2024.08|Google Developer Student Clubs 부원|
-|GDSC-GDG Kookmin|2024.08 -|Google Developer Student Clubs -> Google Developer Groups on Campus 운영진 (Core Member - MgMt)|
+|GDSC Kookmin|2023.09 - 2024.05|Google Developer Student Clubs 부원|
+|GDG on Campus Kookmin|2024.08 -|Google Developer Groups on Campus 운영진 (Core Member - MgMt)|
 
 </div>
 
